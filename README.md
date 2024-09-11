@@ -1,6 +1,6 @@
 # Rephrased Questions for the MP-DocVQA Dataset's Train Split
 
-This repository contains 9 different rephrased questions for the [MP-DocVQA!](https://rrc.cvc.uab.es/?ch=17&com=downloads) dataset's train split questions.
+This repository contains 9 different rephrased questions for the [MP-DocVQA](https://rrc.cvc.uab.es/?ch=17&com=downloads) dataset's train split questions.
 
 The data is stored in a pickle file and it contains a single dictionary. The keys are the question ids and the values are dictionaries with 2 key-value pairs:
 
@@ -15,7 +15,7 @@ These rephrased questions were created for my Master's thesis work, named as "**
 
 ## Data Collection
 
-The rephrased questions where obtained using the *llama3-70b-8192* model, using [Groq!](https://groq.com/)'s API.
+The rephrased questions where obtained using the *llama3-70b-8192* model, using [Groq](https://groq.com/)'s API.
 
 Due to the large number of questions which had to be rephrased, a different conversation was created for each. The used prompt contains instructions so that the rephrased questions contain all the key information stored in the original question, as well as some specific instructions to make the automatization process easier. This is the prompt which was used for obtaining the rephrased questions:
 

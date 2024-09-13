@@ -12,6 +12,40 @@ These rephrased questions were created for my Master's thesis work, named as "**
 
 
 
+## Examples:
+
+```
+
+Question: What is the Amount Requested from PHS for Biology?  rephrased to: 
+1.:  How much funding is sought from PHS for Biology?
+2.:  What funding amount is being requested from PHS for Biology?
+3.:  What is the sum requested from PHS for Biology?
+4.:  What is the total amount requested from PHS for Biology purposes?
+5.:  How much money is being asked from PHS for Biology?
+6.:  What is the monetary amount requested from PHS for Biology?
+7.:  What is the requested allocation from PHS for Biology?
+8.:  What is the financial request to PHS for Biology?
+9.:  What is the specified amount requested from PHS for Biology?
+
+------------------------------------------------------------------------------
+
+Question: What is the Offer Total for Vantage Travel Clock?  rephrased to: 
+1.:  What is the total offer for the Vantage Travel Clock?
+2.:  What is the Vantage Travel Clock's total offer?
+3.:  How much is the total offer for Vantage Travel Clock?
+4.:  What is the amount of the offer for Vantage Travel Clock?
+5.:  What is the Vantage Travel Clock offer's total?
+6.:  What is the total price of the offer for Vantage Travel Clock?
+7.:  What is the Vantage Travel Clock's offer amount?
+8.:  What is the total value of the offer for Vantage Travel Clock?
+9.:  How much does the offer for Vantage Travel Clock total?
+
+```
+
+
+
+
+
 
 ## Data Collection
 
